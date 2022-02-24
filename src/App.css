@@ -1,0 +1,9 @@
+button{
+    border-radius: 50px;
+    color: white;
+    background-color: blue;
+    margin-left: 5px;
+}
+.container{
+    text-align: center;
+}
